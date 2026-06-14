@@ -36,7 +36,7 @@ object RetrofitClient {
         return try {
             api.getHealthTips()
         } catch (e: Exception) {
-            // Jika internet sekat, data sandaran (Local Mock) ini akan menyelamatkan markah awak!
+            
             listOf(
                 HealthTipResponse(
                     activityName = "Walking",
