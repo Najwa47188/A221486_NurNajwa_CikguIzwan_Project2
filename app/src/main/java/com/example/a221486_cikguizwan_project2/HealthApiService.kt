@@ -31,7 +31,7 @@ object RetrofitClient {
             .create(HealthApiService::class.java)
     }
 
-    // Fungsi pintar: Cuba ambil dari internet, jika gagal/sekat, dia terus pulangkan data sedia ada ini!
+  
     suspend fun getHealthTips(): List<HealthTipResponse> {
         return try {
             api.getHealthTips()
