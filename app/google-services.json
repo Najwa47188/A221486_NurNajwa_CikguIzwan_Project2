@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354758494252",
+    "project_id": "gofit-a221486",
+    "storage_bucket": "gofit-a221486.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354758494252:android:19df10ace0237ff3a3e989",
+        "android_client_info": {
+          "package_name": "com.example.a221486_cikguizwan_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxiy4ccif2y3VZBuCo3oj42xx8HqmorNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
